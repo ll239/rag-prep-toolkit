@@ -2,6 +2,9 @@
 
 A Streamlit app that prepares your documents for hybrid RAG search — upload your files, let Claude propose a schema, and download ready-to-use SQL schema, embeddings, and a Python starter file.
 
+<img width="1402" height="1122" alt="ChatGPT Image Jun 29, 2026, 03_10_48 PM" src="https://github.com/user-attachments/assets/473d9119-3d36-45ad-83ba-6d0e3742d121" />
+
+
 ## Why I built this
 
 After building multiple RAG systems I kept noticing the same pattern — the best retrieval always came from hybrid search, combining keyword search for structured data with semantic search for unstructured content. But every time I had to manually figure out what should go into SQL vs what should be embedded.
